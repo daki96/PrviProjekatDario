@@ -6,6 +6,7 @@ package one;
  *  1.1 byte(8 bit) (-128 - 0 - (+127))
  *  1.2 short (16 bit) (-32768 - 0 - (+32767))
  *  1.3 int(integer) (32 bit)
+ *  1.4 long (64bit)
  *
  *  2. Slozeni
  */
